@@ -38,10 +38,14 @@ int main()
     for (auto i = 0; i != 10; ++i)
     {
         v2[i] = v1[i];
-        cout << v2 << endl;
+        
+            cout << v2 << endl;
     }
 
-    return 0;
+    printf("bart simthon \n");
+    printf("exit");
+    getchar();
+
 }
 
 // Для i=0 a[0] = -1
